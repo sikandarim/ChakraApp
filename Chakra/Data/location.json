@@ -1,0 +1,103 @@
+[
+    {
+       "id":"Wat Arun",
+       "name" : "Wat Arun",
+        "CityName" : "Thailand",
+        "description": "This beautiful temple is located on the Thonburi side of the Chao Phraya River. Also known as the Temple of Dawn, it is among the oldest Buddhisht temples in the world and a landmark attraction in Bangkok. Visit the temple during the sunset to experience its real golden beauty.",
+        "latitude" : 13.7439,
+        "longitude" : 100.4884,
+        "imageNames" : [
+            "watarun-1",
+            "watarun-2",
+            "watarun-3"
+        ],
+        "link": "https://en.wikipedia.org/wiki/Wat_Arun"
+    
+    },
+     {
+        "id":"Shwedagon Pagoda",
+        "name" : "Shwedagon Pagoda",
+        "CityName" : "Myanmar",
+        "description": "Also known as the Golden Pagoda, the Shwedagon Pagoda is another very famous Buddhist temple in the world. The pagoda was built by the Moon Dynasty between the 6th and 10th century. You’ll be mesmerised with all the glittering and vibrant stupas here.",
+        "latitude" : 16.7984,
+        "longitude" : 96.1496,
+    "imageNames" : [
+        "Shwedagon-1",
+        "Shwedagon-2",
+        "Shwedagon-3"
+    ],
+    "link": "https://en.wikipedia.org/wiki/Shwedagon_Pagoda"
+     },
+     {
+        "id":"Pha That Luang",
+        "name" : "Pha That Luang",
+        "CityName" : "Laos",
+        "description": "Pha That Luang or the Great Stupa in Laos is situated in Vientiane, Laos. The temple features a number of terraces, each representing a different stage of Buddhist enlightenment. For example, the lowest level represents the material world while the highest level represents the world of nothingness.",
+        "latitude" : 17.9768,
+        "longitude" : 102.6365,
+    "imageNames" : [
+        "Laos-1",
+        "Laos-2",
+        "Laos-3"
+    ],
+    "link": "https://en.wikipedia.org/wiki/Pha_That_Luang"
+     },
+     {
+        "id":"Mahabodhi Temple",
+        "name" : "Mahabodhi Temple",
+        "CityName" : "India",
+        "description": "The Mahabodhi Temple or the Great Enlightenment Temple is located in Gaya, Bihar. The temple holds a great religious significance in the world. In 531 BC, Buddha attained the perfect state of enlightenment under a Bodhi tree at the site of Mahabodhi Temple Complex. Then, in 260 BC, Emperor Asoka came here to worship the tree, and commissioned the first temple honouring Gautam Buddha.",
+        "latitude" : 24.6959,
+        "longitude" : 84.9914,
+    "imageNames" : [
+        "Mahabodhi-1",
+        "Mahabodhi-2",
+        "Mahabodhi-3"
+    ],
+    "link": "https://en.wikipedia.org/wiki/Mahabodhi_Temple"
+     },
+     {
+        "id":"Tanah Lot Temple",
+        "name" : "Tanah Lot Temple",
+        "CityName" : "Bali",
+        "description": "Located on the Indonesian island of Bali, Tanah Lot or “Land in the sea” is one of the famous ancient Hindu temples around the world perched on the top of a rock formation that is a sacred religious site for Balinese Hindus. Thanks to its picturesque location, over the time, this temple has now become a major attraction in the bustling tourist hotspot of Bali.",
+        "latitude" : 8.6212,
+        "longitude" : 115.0868,
+    "imageNames" : [
+        "Bali-1",
+        "Bali-2",
+        "Bali-3"
+    ],
+    "link": "https://en.wikipedia.org/wiki/Tanah_Lot"
+     },
+     {
+        "id":"Wat Rong Khun",
+        "name" : "Wat Rong Khun",
+        "CityName" : "Thailand",
+        "description": "Also known to travelers as the white temple, Wat Rong Khun is a temple located in the north of Thailand in Chiang Rai. The temple was originally built hundreds of year ago, but after viewing its deteriorating condition, it was redesigned and renovated in 1997.",
+        "latitude" : 19.8233,
+        "longitude" : 99.7627,
+    "imageNames" : [
+        "Thailand-1",
+        "Thailand-2",
+        "Thailand-3"
+    ],
+    "link": "https://en.wikipedia.org/wiki/Wat_Rong_Khun"
+     },
+     {
+        "id":"Akshardham Temple",
+        "name" : "Akshardham Temple",
+        "CityName" : "New Delhi",
+        "description": "The youngest temple on this list, Akshardham Swaminarayan Temple was built in 2005 in New Delhi. As a part of a cultural and spiritual movement in the Swaminarayan sect of Hinduism, this temple was one of the 3 temples established around the world for the same spiritual motives.",
+        "latitude" : 28.6127,
+        "longitude" : 77.2773,
+    "imageNames" : [
+        "Dehli-1",
+        "Dehli-2",
+        "Dehli-3"
+    ],
+    "link": "https://en.wikipedia.org/wiki/Swaminarayan_Akshardham_(Delhi)"
+     },
+     
+   
+ ]

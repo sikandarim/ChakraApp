@@ -1,0 +1,34 @@
+[
+  {
+    "id" : 1,
+    "name" : "cover-sevenChakra"
+  },
+  {
+    "id" : 2,
+    "name" : "cover-root"
+  },
+  {
+    "id" : 3,
+    "name" : "cover-swadishtana"
+  },
+  {
+    "id" : 4,
+    "name" : "cover-manipora"
+  },
+  {
+    "id" : 5,
+    "name" : "cover-heart"
+  },
+  {
+    "id" : 6,
+    "name" : "cover-throat"
+  },
+  {
+    "id" : 7,
+    "name" : "cover-agna"
+  },
+  {
+    "id" : 8,
+    "name" : "cover-crown"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "id" : "root",
+    "name" : "Root",
+    "headline" : "“A tree with strong roots laughs at storms” \n– Malay Proverb",
+    "chakraIs" :"The root chakra corresponds to the earth element and to the roots we’ve planted, it specify how strong we are, how deep we are, and how supportive we are.\nThis chakra associated with the earth element and portrayed as a vibrant red color.\nIt consists of whatever grounds us to stability in our life. That includes basic needs like food, water, shelter, and safety as well as emotional needs like letting go of fear and anxiety.",
+    "descriptionclosed":"If you have found yourself to obsessed about money and live in fear of not having enough to pay for the basics like rent and food you are having root chakra closed.\nIf you are relying on others and believe that you can only trust yourself you are having root chakra closed. When our basic survival needs are not met, our root Chakra becomes dysfunctional and causes a disconnection from our earthly values.\nAlso, when the muladhara Chakra is blocked and imbalanced, it can cause mental stress which is visible through one’s physicality as well such as reproductive issues, health problems in the colon, bladder, lower back and digestive disorders.",
+    "chakraessentialOils":"Aromatherapy has powerful healing properties that awaken feelings of safety and security.\nTo open the root chakra, try burning earthy essential oils, candles, or incense like sandalwood, cypress, cedarwood, rosewood, patchouli, cloves, black pepper, and ginger.",
+    "affirmation" : [
+      "I am always safe.",
+      "My home is safe and secure",
+      "I am financially secure. "
+    ],
+    "yoga" : [
+      "root-1",
+      "root-2",
+      "root-3"
+    ],
+    "link" : "https://en.wikipedia.org/wiki/Muladhara",
+    "image" : "root",
+    "color" : "red"
+   
+  },
+  {
+    "id" : "sacral",
+    "name" : "Sacral",
+    "headline" : "'When we repress our emotions or suppress our emotional content, whatever we are denying accumulates weight, or what I call vibrational density. This heaviness can take on many forms. But in all cases, it impedes your spirit’s natural ability to shine.\n― Panache Desai'",
+    "chakraIs" :"If you’re looking for a way to tap into your creativity, sensuality, and sexuality start balancing your sacral chakra.\nThe primary function of this energy center is pleasure and overall enjoyment of life.\nWith working on sacral chakra, you will address your relationship with both others and yourself. Personally, you’ll discover you have unlimited creative power. You’ll learn how to cultivate a healthy relationship to pleasure and you’ll gain insight into your default reactions and deepest emotions and learn how to sit with the depth of your feelings. This chakra associated with the water element and portrayed as a vibrant orange color.\nWhen the sacral chakra is functioning optimally, we are emotionally content, uninhibited in our relationships and creative endeavors, and capable of deep intimacy.",
+    "descriptionclosed":"A closed sacral chakra can be the cause of sexual trauma or violence can cause unconscious emotions like fear, guilt, or shame and it can create the blockage or under activity on our sacral chakra. It can  make you feel detached from your own emotions as well as the emotions of the people around you.\nWhen out of balance, we feel detachment, isolation and lack of creation inspiration.",
+    "chakraessentialOils":"Aromatherapy has powerful healing properties that awaken feelings of safety and security. To open the sacral chakra, try burning essential oils, candles, or incense like rose, sweet orange, patchouli and helichrysum.",
+    "affirmation" : [
+      "Creative energy flows through me freely",
+      "I am a lovable and desirable being",
+      "I attract people who treat me with respect"
+    ],
+    "yoga" : [
+        "sacral-1",
+        "sacral-2",
+        "sacral-3"
+    ],
+    "link" : "https://en.wikipedia.org/wiki/Svadhishthana",
+    "image" : "sacral",
+    "color" : "orange"
+  },
+  {
+    "id" : "manipura",
+    "name" : "Manipura",
+    "headline" :"“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all – in which case, you fail by default.”\n― J.K. Rowling ",
+    "chakraIs" :"The third energy center of the body is the Manipura Chakra, or the Solar Plexus Chakra. The Manipura Chakra spreads the fire element in your body which brings energy, warmth, and light. This chakra associated with the fire element and portrayed as a vibrant yellow color.\nFire is action and transformation. Allowing yourself to grow and become a better version of yourself means taking action and leaving behind what no longer works for you.",
+    "descriptionclosed":"When the solar plexus chakra is blocked it can create impulsive reactions such as anger and aggression. The emotions associated with this energy center are excitement, happiness, depression, and anger.\nAlso, imbalanced solar plexus chakra can cause emotional problems, such as over analysis, uncontrolled anger and low self-confidence.",
+    "chakraessentialOils":"Aromatherapy has powerful healing properties that awaken your solar plexus chakra. To open the solar plexus chakra, try burning essential oils, candles, or incense like mandarin, spearmint, orange, lavender, atlas cedarwood and ylang-ylang.",
+    "affirmation" : [
+      "I stand in my personal power",
+      "I am ambitious and capable",
+      "I deserve to be paid well for my skills"
+    ],
+    "yoga" : [
+        "manipura-1",
+        "manipura-2",
+        "manipura-3"
+    ],
+    "link" : "https://en.wikipedia.org/wiki/Manipura",
+    "image" : "manipura",
+    "color" : "yellow"
+  },
+  {
+    "id" : "heart",
+    "name" : "Heart",
+    "headline" : "When the mind stops searching, when it stops wanting refuge, when it no longer goes in search of security, when it no longer craves more books and information, when it ignores even the memory of desire, only then Love arrive within. ",
+    "chakraIs" :"The heart chakra or anahata is at the center of the seven chakras. The heart chakra is inspired by love and divinity, allowing you to give and receive love without restriction. It plays an essential role in the chakra system by bridging the lower and upper chakras.\nThis chakra associated with the air element and portrayed as a vibrant green color.\nThe heart chakra is associated with relationships, love and self-acceptance. Physically, it is associated with the thymus gland, heart, lungs and circulatory system.",
+    "descriptionclosed":"When the heart chakra is blocked you will feel fear of intimacy, unhealthy relationships, emotional instability, depression and disconnection. Physical issues include problems with the heart, lungs and circulation.Also, other symptoms can be dwelling on a past relationship, holding onto grudges, experiencing trust issues and feeling shy.",
+    "chakraessentialOils":"Aromatherapy has powerful healing properties that awaken your heart chakra. To open the heart chakra, try burning essential oils, candles, or incense like rose, pinus sylvestris, jasmine, marjoram and lavender.",
+    "affirmation" : [
+      "I find love everywhere I go",
+      "The more love I give, the more I receive",
+      "My best is good enough"
+    ],
+    "yoga" : [
+        "heart-1",
+        "heart-2",
+        "heart-3"
+    ],
+    "link" : "https://en.wikipedia.org/wiki/Anahata",
+    "image" : "heart",
+    "color" : "green"
+  },
+  {
+    "id" : "throat",
+    "name" : "Throat",
+    "headline" : "Our authentic power is found in our truth. This is the place that shows us how to give what is so very good about ourselves. ",
+    "chakraIs" :"The throat chakra or Vishuddha is the fifth chakra from the main seven chakra in the body. Our throat chakra is connected to your ability to communicate and speak your inner truth. An open throat chakra helps to set us free from the fear of judgement or need for approval from others.\nThis chakra associated with the ether element and portrayed as a vibrant blue color. It is also associated with purity, thus connecting it to the concept of truth.",
+    "descriptionclosed":"When your throat chakra is closed you can not communicate freely. You can also can be fearful about speaking your personal truth, have a harder time expressing your thoughts and feel anxious about speaking or communicating.\nAlso, physical signs are gum disease, thyroid challenges and temporomandibular joint (TMJ) disorders.",
+    "chakraessentialOils":"Aromatherapy has powerful healing properties that awaken the throat chakra. To open the throat chakra, try burning essential oils, candles, or incense like ravensara, eucalyptus, and mint.",
+    "affirmation" : [
+      "I am a good listener",
+      "I am friendly and good to talk to",
+      "My words matter"
+    ],
+    "yoga" : [
+        "throat-1",
+        "throat-2",
+        "throat-3"
+    ],
+    "link" : "https://en.wikipedia.org/wiki/Vishuddha",
+    "image" : "throat",
+    "color" : "blue"
+  },
+  {
+    "id" : "ajna",
+    "name" : "Third Eye",
+    "headline" : "Only in quiet waters do things mirror themselves undistorted. Only in a quiet mind is an adequate perception of the world.",
+    "chakraIs" :"The third eye or ajna chakra associated with the light element and portrayed as a vibrant indigo color. The purpose of this chakra is pattern recognition, also known as the seeing chakra. The element of the third eye is light which gives us the ability to see, to take in the shape and form of things around us from a distance.",
+    "descriptionclosed":"When the third eye is blocked, we might experience many physical, emotional and spiritual signs.headaches, vision problems, eye problems and brain disorders.\n Also, not figure anything out anything in life, not finding meaning to life and being disconnected from others are some sign of blocked third eye.",
+    "chakraessentialOils":"Aromatherapy has powerful healing properties that awaken your third eye. To open the third eye chakra, try burning essential oils, candles, or incense like blue tansy, lavender, cedarwood, grapefruit and helichrysum.",
+    "affirmation" : [
+      "I am the source of my truth",
+      "Everything I need is within me",
+      "I can manifest my vision"
+    ],
+    "yoga" : [
+        "ajna-1",
+        "ajna-2",
+        "ajna-3"
+    ],
+    "link" : "https://en.wikipedia.org/wiki/Ajna",
+    "image" : "agna",
+    "color" : "indego"
+  },
+  {
+    "id" : "crown",
+    "name" : "Crown",
+    "headline" : "“Enlightenment or awakening is not the creation of a new state of affairs but the recognition of what already is.”\nAlan Watts",
+    "chakraIs" :"The crown Chakra is pure spirit. The responsibility of crown chakra is the connection to Higher Power/Divine and spiritual guidance.\nThe crown chakra or sahasrara is the seventh chakra and is the highest in the human energy field. It is the channel through which we receive insights from the spirit world in the form of inspiration or telepathy. It’s a very important chakra because it is responsible for higher consciousness and spiritual purpose.",
+    "descriptionclosed":"A person with a blocked crown chakra may experience unwillingness to be open to other ideas, thoughts, or knowledge. The signs such as psychosis, dissociation from the body, being disconnected and ungrounded are also manifested when the crown chakra is unbalanced.",
+    "chakraessentialOils":"Aromatherapy has powerful healing properties that awaken the crown chakra. To open the crown chakra, try burning essential oils, candles, or incense like vetiver, spikenard, helichrysum, lavender and elemi.",
+    "affirmation" : [
+      "I live in the present moment",
+      "Information I need comes to me easily",
+      "The world is my teacher"
+    ],
+    "yoga" : [
+        "crown-1",
+        "crown-2",
+        "crown-3"
+    ],
+    "link" : "https://en.wikipedia.org/wiki/Sahasrara",
+    "image" : "crown",
+    "color" : "purple"
+  }
+]

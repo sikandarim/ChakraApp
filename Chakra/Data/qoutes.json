@@ -1,0 +1,29 @@
+
+[
+    {
+        "id" : "aristotle",
+        "name":"Aristotle",
+        "quotes":["Quality is not an act, it is a habit.","In all things of nature there is something of the marvelous","Personal beauty is a greater recommendation than any letter of reference.","The aim of the wise is not to secure pleasure, but to avoid pain.","The whole is more than the sum of its parts.","The soul never thinks without a picture."]
+
+    },
+   
+   {
+       "id" : "albert",
+       "name":"Albert Einstein",
+       "quotes":["Try not to become a man of success, but rather try to become a man of value.","We cannot solve our problems with the same thinking we used when we created them.","Life is like riding a bicycle. To keep your balance, you must keep moving.","A person who never made a mistake never tried anything new","I have no special talent. I am only passionately curious.","Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.","No problem can be solved from the same level of consciousness that created it."]
+    },
+   
+    {
+       "id" : "plato",
+       "name":"Plato",
+       "quotes":["When the mind is thinking it is talking to itself.","Wise men talk because they have something to say;fools, because they have to say something.","Human behavior flows from three main sources: desire, emotion and knowledge.","There are two things a person should never be angry at: What they can help, and what they cannot.","We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.","The heaviest penalty for declining to rule is to be ruled by someone inferior to yourself."]
+     },
+      
+      {
+          "id" : "nelson Mandela",
+          "name":"Nelson Mandela",
+          "quotes":["Do not judge me by my successes, judge me by how many times I fell down and got back up again.","Money won't create success, the freedom to make it will","It always seems impossible until it's done,One cannot be prepared for something while secretly believing it will not happen.","Lead from the back and let others believe they are in front."]
+      }
+
+]
+
